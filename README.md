@@ -5,8 +5,8 @@ LiveCodeLab is a clean, responsive, and intuitive online code editor that allows
 Built using **HTML**, **CSS**, and **JavaScript**, this project simulates a lightweight version of popular tools like **CodePen** and **JSFiddle**. It’s designed to enhance rapid frontend prototyping and learning by providing instant visual feedback as you type.
 
 ## 🎯 Deployed Link
-
-- <a href="https://ayushkandari25.github.io/LiveCodeLab/" target="_blank" rel="noopener noreferrer">LiveCodeLab</a>
+- 🧩 **Right-click ---> Open link in New Tab**
+- [LiveCodeLab](https://ayushkandari25.github.io/LiveCodeLab/)
 
 ---
 
