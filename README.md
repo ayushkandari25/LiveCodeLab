@@ -6,7 +6,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this project simulates a ligh
 
 ## 🎯 Deployed Link
 
-- [LiveCodeLab](https://ayushkandari25.github.io/LiveCodeLab/)
+- <a href="https://ayushkandari25.github.io/LiveCodeLab/" target="_blank" rel="noopener noreferrer">LiveCodeLab</a>
 
 ---
 
